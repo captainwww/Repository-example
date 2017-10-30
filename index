@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-<!-- this is to say that we are using english  -->
-  <title>my website</title>
-  </head>
 
-  <body>
-  <h1>hello</h1>
-  </body>
-  </html>
-  <!-- just trying to add sth to test github -->
+  <!DOCTYPE html>
+<html>
+        <title>TEST</title>
+     </head>
+      <body>
+        <h1>Hello!</h1>
+       </body>
+</html>
+
+

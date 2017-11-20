@@ -2,10 +2,20 @@
   <!DOCTYPE html>
 <html>
     <head>
-        <title>TEST</title>
+        <title>Recipes from Our Countries</title>
+        <link rel='stylesheet' type='text/css' href='stylesheet.css'>
      </head>
       <body>
-        <h1>Hello!</h1>
+      	<header>
+    	<img src="http://www.tooby.demon.co.uk/Images/BP/Recipes/paris-food-wine.jpg">
+        <h1>Recipes from Our Countries</h1>
+         <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#2">Brazilian Cuisine</a></li>
+      <li><a href="#3">Chinese Cuisine</a></li>
+      <li><a href="#4">Polish Cuisine</a></li>
+    </ul>
+</header>
        </body>
 </html>
 

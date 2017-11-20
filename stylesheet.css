@@ -1,0 +1,25 @@
+li {
+      display: inline;
+      padding: 0px 20px 0px 20px;
+      font-size: 15px;
+      font-family: Helvetica, "Trebuchet MS", sans-serif;
+  }
+header {
+      text-align: center;
+      background: url('http://www.fnstatic.co.uk/images/content/package/amazing-brazilian-recipes-you-need-to-try-this-summer-collage.jpg');
+      background-size: cover;
+      color: white;
+      font-size: 25px
+      font-family: Helvetica, "Trebuchet MS", sans-serif;
+  }
+img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid orange;
+      border-radius: 20px;
+    }
+ul {
+	background-color: white;
+}
+header h1 {
+	background-color: orange;
+}

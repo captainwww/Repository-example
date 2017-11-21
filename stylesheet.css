@@ -5,11 +5,9 @@ li {
       font-family: Helvetica, "Trebuchet MS", sans-serif;
   }
 header{
-  text-align: center;
   background-size: cover;
   background: url("http://josyuran.com/wp-content/uploads/2017/03/0425_1.png");
   background-position: relative;
-  color: white;
   font-size: 25px;
   font-family: Helvetica, "Trebuchet MS", sans-serif;
   min-height: 400px;
@@ -18,22 +16,22 @@ ul {
 	background-color: rgba(255, 165, 0, 0.4);
   text-align: center;
   min-height: 20px;
-  vertical-align: text-bottom;
 }
 h1 {
   font-size: 50px;
-  color: rgba(255, 165, 0, 0.8);
-  text-align: left;
+  color: rgba(255, 165, 0, 1);
   position: absolute;
-  vertical-align: middle;
   margin: 20px;
 }
 img.photo_us {
-  margin: 80px 0px 0px 80px;
+  margin: 120px auto auto 40px;
   border: 7px solid black;
   border-color: rgba(255, 165, 0, 0.2);
   border-radius: 150px;
   width: 30%;
+  position: absolute;
+  min-height: 250px;
+  min-width: 250px;
 }
 body {
   background-color: rgba(255, 165, 0, 0.5);

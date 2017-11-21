@@ -3,20 +3,23 @@
 <html>
     <head>
         <title>Recipes from Our Countries</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
         <link rel='stylesheet' type='text/css' href='stylesheet.css'>
      </head>
       <body>
       	<header>
-    	<img src="http://www.tooby.demon.co.uk/Images/BP/Recipes/paris-food-wine.jpg">
+        <img class="photo_us" ="photo_us" src="http://www.tooby.demon.co.uk/Images/BP/Recipes/paris-food-wine.jpg" align="left">        
         <h1>Recipes from Our Countries</h1>
+        </header>
+        <nav>
          <ul>
-      <li><a href="#">Home</a></li>
+      <li><a href=>Home</a></li>
       <li><a href="#2">Brazilian Cuisine</a></li>
       <li><a href="#3">Chinese Cuisine</a></li>
       <li><a href="#4">Polish Cuisine</a></li>
     </ul>
-</header>
-       </body>
+  </nav>
+  </body>
 </html>
 
 

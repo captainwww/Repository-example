@@ -30,3 +30,9 @@ h1 {
 body {
   background-color: rgba(208, 73, 6, 1);
 }
+.carousel-inner {
+  padding: 50px 150px 50px 150px;
+}
+iframe {
+  margin: auto;
+}
